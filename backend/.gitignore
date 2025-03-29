@@ -1,0 +1,11 @@
+.vercel
+.env
+/node_modules
+/.pnp
+.pnp.js
+/.pnp.cjs
+/.pnp.js
+/.pnp.cjs
+/.pnp
+/.pnp.cjs
+/.pnp.js  
